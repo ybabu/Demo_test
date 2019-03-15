@@ -16,7 +16,7 @@ namespace TestBOM
             {
                 Credentials = new NetworkCredential("Administrator", "manage")
             };
-
+            //Test 
           
             VisitContainer.BuildingRequest += (s, e) =>
             {
